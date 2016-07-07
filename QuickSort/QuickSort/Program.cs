@@ -54,4 +54,5 @@ namespace QuickSort
                 QuickSort(array, PartitionIndex + 1, end);
             }
         }
-    
+    }
+}
