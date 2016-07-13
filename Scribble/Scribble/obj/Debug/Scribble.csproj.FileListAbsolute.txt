@@ -1,0 +1,9 @@
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\bin\Debug\Scribble.exe.config
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\bin\Debug\Scribble.exe
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\bin\Debug\Scribble.pdb
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.csprojResolveAssemblyReference.cache
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.Form1.resources
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.Properties.Resources.resources
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.csproj.GenerateResource.Cache
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.exe
+c:\users\v-alywil\documents\visual studio 2015\Projects\Scribble\Scribble\obj\Debug\Scribble.pdb
